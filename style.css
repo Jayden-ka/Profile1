@@ -50,7 +50,7 @@ body{
     margin-top:300px;
     position: relative;
     width: 100%;
-    height: 80vh;
+    height: 90vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -157,15 +157,15 @@ body{
     border-radius: 5% 5% 5% 5%;
 }
 .youtube h4{
-    font: 15px Averta, sans-serif;
+    font: 14px Averta, sans-serif;
     color: lightgray;
 }
 .youtube h3{
-    font: 37px Averta, sans-serif;
+    font: 35px Averta, sans-serif;
     margin-top: 40px;
 }
 .youtube p{
-    font: 15px Lato, sans-serif;
+    font: 14px Lato, sans-serif;
     margin-bottom:40px;
     line-height: 180%;
 }
@@ -179,8 +179,6 @@ body{
     background:linear-gradient(45deg,#8614ce,#ff0057);
     cursor: pointer;
 }
-
-
 .facebook1{
     margin-top: 5%;
     background-color:none;
@@ -195,15 +193,15 @@ body{
     border-radius: 5% 5% 5% 5%;
 }
 .facebook1 h4{
-    font: 15px Averta, sans-serif;
+    font: 14px Averta, sans-serif;
     color: lightgray;
 }
 .facebook1 h3{
-    font: 37px Averta, sans-serif;
+    font: 35px Averta, sans-serif;
     margin-top: 40px;
 }
 .facebook1 p{
-    font: 15px Lato, sans-serif;
+    font: 14px Lato, sans-serif;
     margin-bottom:40px;
     line-height: 180%;
 }
@@ -221,15 +219,15 @@ body{
     border-radius: 5% 5% 5% 5%;
 }
 .work h4{
-    font: 15px Averta, sans-serif;
+    font: 14px Averta, sans-serif;
     color: lightgray;
 }
 .work h3{
-    font: 37px Averta, sans-serif;
+    font: 35px Averta, sans-serif;
     margin-top: 40px;
 }
 .work p{
-    font: 15px Lato, sans-serif;
+    font: 14px Lato, sans-serif;
     margin-bottom:40px;
     line-height: 180%;
 }
