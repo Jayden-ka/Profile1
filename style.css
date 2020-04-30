@@ -139,9 +139,9 @@ body{
 }
 .A{
    border: 1px solid;
-   width: 100%;
+   width: auto;
    justify-content: center;
-   display: inline-flex;
+   display: flex;
 }
 .youtube{
     margin-top: 5%;
@@ -157,15 +157,15 @@ body{
     border-radius: 5% 5% 5% 5%;
 }
 .youtube h4{
-    font: 18px Averta, sans-serif;
+    font: 15px Averta, sans-serif;
     color: lightgray;
 }
 .youtube h3{
-    font: 44px Averta, sans-serif;
+    font: 37px Averta, sans-serif;
     margin-top: 40px;
 }
 .youtube p{
-    font: 18px Lato, sans-serif;
+    font: 15px Lato, sans-serif;
     margin-bottom:40px;
     line-height: 180%;
 }
@@ -195,15 +195,15 @@ body{
     border-radius: 5% 5% 5% 5%;
 }
 .facebook1 h4{
-    font: 18px Averta, sans-serif;
+    font: 15px Averta, sans-serif;
     color: lightgray;
 }
 .facebook1 h3{
-    font: 44px Averta, sans-serif;
+    font: 37px Averta, sans-serif;
     margin-top: 40px;
 }
 .facebook1 p{
-    font: 18px Lato, sans-serif;
+    font: 15px Lato, sans-serif;
     margin-bottom:40px;
     line-height: 180%;
 }
@@ -221,15 +221,15 @@ body{
     border-radius: 5% 5% 5% 5%;
 }
 .work h4{
-    font: 18px Averta, sans-serif;
+    font: 15px Averta, sans-serif;
     color: lightgray;
 }
 .work h3{
-    font: 44px Averta, sans-serif;
+    font: 37px Averta, sans-serif;
     margin-top: 40px;
 }
 .work p{
-    font: 18px Lato, sans-serif;
+    font: 15px Lato, sans-serif;
     margin-bottom:40px;
     line-height: 180%;
 }
